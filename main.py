@@ -106,11 +106,7 @@ if check_password():
         col3.write('- Adapte')
         col4.write('- Sponte')
     else:
-        st.write("Nenhuma escola encontrada com esse nome.")
-
-
-
-
+        st.write("Nenhuma escola encontrada com esse nome")
     
     
      
